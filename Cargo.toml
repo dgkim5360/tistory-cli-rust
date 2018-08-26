@@ -1,0 +1,12 @@
+[package]
+name = "tistory"
+version = "0.1.0"
+authors = ["Don Kim <dgkimdev@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+hyper-tls = "*"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+comrak = "*"
